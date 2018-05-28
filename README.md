@@ -4,7 +4,7 @@
 
 # usage
 
-`node index.js "String to hyphenate"`
+`node index.js "Norwegian text to hyphenate"`
 
 # documentation
 
